@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hassan-أحمد حسن</h1>
-<h3 align="center">python developer from Egypt</h3>
+<h3 align="center">dental student and python developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ah7255703&label=Profile%20views&color=0e75b6&style=flat" alt="ah7255703" /> </p>
 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **ML with sikit learn**
-
+- I’m looking forward to develop tools for dental field so if you has the same passion we can collaborate
 - 📫 How to reach me **ah7255703@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
