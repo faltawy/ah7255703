@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Anime Streaming site**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vuejs**
 
 - 🤝 I’m looking for help with **ML with sikit learn**
 - I’m looking forward to develop tools for dental field so if you has the same passion we can collaborate
