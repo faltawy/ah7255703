@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Hassan-أحمد حسن</h1>
-<h3 align="center">dental student and python developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Ahmad Hassan-أحمد حسن</h1>
+<h3 align="center">frontend web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ah7255703&label=Profile%20views&color=0e75b6&style=flat" alt="ah7255703" /> </p>
 
