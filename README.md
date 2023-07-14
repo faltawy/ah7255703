@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/ah7255" target="blank"><img src="https://img.shields.io/twitter/follow/ah7255?logo=twitter&style=for-the-badge" alt="ah7255" /></a> </p>
 
-- 🔭 I’m currently working on **Anime Streaming site**
-
-- 🌱 I’m currently learning **Vuejs**
-
-- 🤝 I’m looking for help with **ML with sikit learn**
 - I’m looking forward to develop tools for dental field so if you has the same passion we can collaborate
 - 📫 How to reach me **ah7255703@gmail.com**
 
